@@ -59,7 +59,7 @@ THEN I should have proper build scripts for a webpack application
 <a id='installation'></a>
 ## Installation
 You can use the link below to access the deployed app and from there you can download it onto your computer by clicking on the "Install" button located in the top left corner.\
-[PWA Text Editor](https://fast-brook-86367-d21f795e7f85.herokuapp.com/)
+[PWA Text Editor](https://hidden-ocean-30849-b1dc3b32b941.herokuapp.com/)
 ##
 
 <a id='usage'></a>
@@ -75,11 +75,11 @@ This app is meant to help the user quickly and easily add/update/remove text.
 ## Screenshots:
 ##
 
-![](https://github.com/jenstem/tech-blog/blob/main/public/assets/login.png) <br>
+![](https://github.com/jenstem/pwa-text-editor/blob/main/assets/text-editor-blank.png) <br>
 *This is a screenshot of PWA Text Editor blank*
 ##
 
-![](https://github.com/jenstem/tech-blog/blob/main/public/assets/blogpost.png) <br>
+![](https://github.com/jenstem/pwa-text-editor/blob/main/assets/text-editor-list.png) <br>
 *This is a screenshot of how the PWA Text Editor looks with a list*
 ##
 
