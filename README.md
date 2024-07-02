@@ -59,7 +59,7 @@ THEN I should have proper build scripts for a webpack application
 <a id='installation'></a>
 ## Installation
 You can use the link below to access the deployed app and from there you can download it onto your computer by clicking on the "Install" button located in the top left corner.\
-[PWA Text Editor](https://hidden-ocean-30849-b1dc3b32b941.herokuapp.com/)
+[PWA Text Editor](https://youtube.com/shorts/yxEn1dpDuZo?feature=share)
 ##
 
 <a id='usage'></a>
