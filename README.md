@@ -59,7 +59,7 @@ THEN I should have proper build scripts for a webpack application
 <a id='installation'></a>
 ## Installation
 You can use the link below to access the deployed app and from there you can download it onto your computer by clicking on the "Install" button located in the top left corner.\
-[PWA Text Editor](https://youtube.com/shorts/yxEn1dpDuZo?feature=share)
+[PWA Text Editor](https://www.youtube.com/shorts/yxEn1dpDuZo)
 ##
 
 <a id='usage'></a>
